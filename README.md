@@ -3,7 +3,6 @@
 - 建立 Model 和 ORM 操作
 - 建立 API
 - drf-yasg swagger UI
-- 123
 
 
 ## 安裝套件
